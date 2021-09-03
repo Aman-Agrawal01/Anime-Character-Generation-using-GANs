@@ -9,7 +9,7 @@ The dataset that I had used can be found [here](https://www.kaggle.com/soumikrak
 
 # Generated Samples 
 ### DCGAN<br>
-![Screenshot](https://github.com/Aman-Agrawal01/Anime-Character-Generation-using-GANs/blob/main/DCGAN/image2.PNG)<br>
+![Screenshot](https://github.com/Aman-Agrawal01/Anime-Character-Generation-using-GANs/blob/main/DCGAN/image3.PNG)<br>
 
 # Weights 
 The weights obtained during training can be found here.<br>
